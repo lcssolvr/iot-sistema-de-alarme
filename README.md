@@ -1,4 +1,4 @@
-Pode se executar o projeto no link abaixo:
+Pode se executar o projeto no link:
 [Wokwi - Projeto Alarme by Lucas Oliveira](https://wokwi.com/projects/424809797562574849)
 
 
